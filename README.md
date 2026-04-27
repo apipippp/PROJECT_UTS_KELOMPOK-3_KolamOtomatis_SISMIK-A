@@ -1,13 +1,13 @@
 # Sistem Kolam Otomatis (ESP32)
 
 ## Anggota Kelompok:
-1. Afif Nur Rahman                      (H1H024016)
-2. Diva Syahita Mawarni                 (H1H024015)
-3. Hana Nur Fathiyyah	                  (H1H024017)
-4. Ardina Jihan Mariska	                (H1H024018)
-5. Difa’ Tamaya Maulidina Adz Dzikro    (H1H024019)
-6. Kaira Meilasya Nayada                (H1H024020)
-7. Alma Maida Wirastuti                 (H1H024021)
+* 1. Afif Nur Rahman                      (H1H024016)
+* 2. Diva Syahita Mawarni                 (H1H024015)
+* 3. Hana Nur Fathiyyah	                  (H1H024017)
+* 4. Ardina Jihan Mariska	              (H1H024018)
+* 5. Difa’ Tamaya Maulidina Adz Dzikro    (H1H024019)
+* 6. Kaira Meilasya Nayada                (H1H024020)
+* 7. Alma Maida Wirastuti                 (H1H024021)
 
 
 ## Deskripsi Proyek
@@ -116,7 +116,7 @@ Saat proses berlangsung:
 
 ---
 
-#### Stop Penggantian Air
+#### ⏹Stop Penggantian Air
 
 ```cpp
 if (nilaiADC < 1000) {
