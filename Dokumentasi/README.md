@@ -1,14 +1,14 @@
 # DOKUMENTASI
 
 ## Rangkaian
-![rangkaian](../dokumentasi/rangkaian.png)
+![rangkaian](../Dokumentasi/rangkaian.png)
 
 ---
 
-![rangkaianNyalain](../dokumentasi/rangkaianNyala.png)
+![rangkaianNyalain](../Dokumentasi/rangkaianNyala.png)
 
 ---
 
-![ServoNyalain](../dokumentasi/ServoNyala.png)
+![ServoNyalain](../Dokumentasi/ServoNyala.png)
 
 
