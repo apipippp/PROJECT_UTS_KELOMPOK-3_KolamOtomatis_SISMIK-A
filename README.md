@@ -116,7 +116,7 @@ Saat proses berlangsung:
 
 ---
 
-#### ⏹Stop Penggantian Air
+#### Stop Penggantian Air
 
 ```cpp
 if (nilaiADC < 1000) {
