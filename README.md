@@ -133,7 +133,7 @@ if (nilaiADC < 1000) {
 Jika air sudah cukup bersih:
 
 * Proses dihentikan
-* Servo ditutup
+* Servo ditutup kembali
 * LED dimatikan
 
 ---
@@ -206,11 +206,11 @@ void eksekusiPakan() {
 }
 ```
 
-Alur:
+Alur :
 
 * LED pakan menyala
-* Servo membuka (mengeluarkan pakan)
-* Delay 10 detik
+* Servo terbuka (mengeluarkan pakan)
+* Delay selama 10 detik
 * Servo menutup kembali
 * LED mati
 
