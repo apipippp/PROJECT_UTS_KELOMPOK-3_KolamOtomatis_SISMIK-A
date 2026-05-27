@@ -251,6 +251,6 @@ Setiap siklus loop:
 
 ## Catatan
 
-* RTC harus disetting terlebih dahulu agar waktu akurat
-* Potensiometer hanya simulasi, bisa diganti sensor kekeruhan asli
-* Sistem menggunakan logika state (`sedangGantiAir`) agar lebih stabil
+* RTC harus disetting terlebih dahulu agar waktu akurat.
+* Potensiometer hanya simulasi, bisa diganti sensor kekeruhan asli.
+* Sistem menggunakan logika state (`sedangGantiAir`) agar lebih stabil.
